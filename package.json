@@ -3,6 +3,7 @@
   "private": true,
   "version": "2.0.0",
   "type": "module",
+  "main": "electron/main.js",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
@@ -11,6 +12,8 @@
     "pack": "electron-builder --dir --config build",
     "dist": "electron-builder --win --x64 --config build"
   },
+  "description": "Aljaberti ONE — ERP web + desktop shell",
+  "author": "youssefdesire",
   "dependencies": {
     "lucide-react": "^0.344.0",
     "react": "^18.2.0",
