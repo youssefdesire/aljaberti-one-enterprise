@@ -1,0 +1,12 @@
+node_modules/
+release/
+dist/
+android/
+*.apk
+*.exe
+*.zip
+.idea/
+.vscode/
+.env.local
+.env
+*.keystore
