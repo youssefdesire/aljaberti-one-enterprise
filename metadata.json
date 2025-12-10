@@ -1,0 +1,7 @@
+{
+  "name": "Aljaberti ERP - Website",
+  "description": "A cloud-first, mobile-friendly Accounting + CRM + ERP system for Project Management Services.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
